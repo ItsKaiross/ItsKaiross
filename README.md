@@ -35,9 +35,9 @@ Konichiwa! I'm **Mark Junelle**, a fast learner who's eager to sharpen my skills
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsHarukiii&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsKaiross&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHarukiii&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKaiross&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -148,7 +148,7 @@ Konichiwa! I'm **Mark Junelle**, a fast learner who's eager to sharpen my skills
 
 <div align="center">
 
-[![Mark's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsHarukiii&theme=tokyo-night&hide_border=true)](https://github.com/ItsHarukiii)
+[![Mark's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsKaiross&theme=tokyo-night&hide_border=true)](https://github.com/ItsHarukiii)
 
 </div>
 
