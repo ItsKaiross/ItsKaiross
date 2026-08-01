@@ -80,7 +80,7 @@ I enjoy building web applications, editing engaging videos, creating eye-catchin
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ItsKaiross&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ItsKaiross&theme=tokyonight&hide_border=true&v=2"/>
 
 </div>
 
