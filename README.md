@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section -->
-<img src="https://github.com/ItsKaiross/ItsKaiross/blob/main/Haruki.jpg?raw=true" alt="Mark Junelle Manahan" width="180" style="border-radius:50%; border: 4px solid #6C63FF;"/>
+<img src="https://github.com/ItsKaiross/ItsKaiross/blob/main/Haruki.jpg?raw=true" alt="Mark Junelle Manahan"/>
 
 # Hi there, I'm Mark Junelle 👋
 
