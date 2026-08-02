@@ -105,6 +105,20 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 </details>
 
 <details open>
+<summary><b>🤖 AI Assistants</b></summary>
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Development Tools:**  
+🤖 Kiro • Claude Code • Cursor AI
+
+</details>
+
+<details open>
 <summary><b>🎨 Creative Suite</b></summary>
 <br/>
 
