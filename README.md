@@ -1,124 +1,276 @@
 <div align="center">
 
-<img src="https://github.com/ItsKaiross/ItsKaiross/blob/main/Haruki.jpg?raw=true" style="border-radius:50%;" />
+<!-- Hero Section -->
+<img src="https://github.com/ItsKaiross/ItsKaiross/blob/main/Haruki.jpg?raw=true" alt="Mark Junelle Manahan" width="180" style="border-radius:50%; border: 4px solid #6C63FF;"/>
 
-# Hi, I'm Mark Junelle 👋
+# Hi there, I'm Mark Junelle 👋
 
-### 🎬 Video Editor • 🎨 Graphic Designer • 💻 Full Stack Developer
+<h3>🎬 Video Editor • 🎨 Graphic Designer • 💻 Full Stack Developer</h3>
 
-> Building creative experiences through design, code, and storytelling.
+> *Building creative experiences through design, code, and storytelling.*
 
+<!-- Status Badges -->
 <p>
-<img src="https://img.shields.io/badge/Based_in-🇵🇭_Philippines-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_to_Work-00C896?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fast_Learner-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based_in-🇵🇭_Philippines-6C63FF?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Open_to_Work-✅-00C896?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Fast_Learner-🚀-FFB000?style=for-the-badge&labelColor=1a1b27"/>
 </p>
 
+<!-- Social Links -->
+<p>
 <a href="https://github.com/ItsKaiross">
-<img src="https://img.shields.io/badge/GitHub-ItsKaiross-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ItsKaiross-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=ItsKaiross&style=for-the-badge&color=6C63FF&label=Profile+Views"/>
+</p>
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm **Mark Junelle Manahan**, a multidisciplinary creative passionate about combining **technology and design**.
+<br/>
 
-I enjoy building web applications, editing engaging videos, creating eye-catching graphics, and constantly learning new technologies.
+## 🚀 About Me
 
-- 🎬 Professional Video Editor
-- 🎨 Graphic Designer
-- 💻 Full Stack Developer
-- 🌍 Remote-friendly & flexible across time zones
-- 🚀 Always learning something new
+```typescript
+const markJunelle = {
+    name: "Mark Junelle Manahan",
+    location: "🇵🇭 Philippines",
+    roles: ["Video Editor", "Graphic Designer", "Full Stack Developer"],
+    workStyle: "Remote-friendly & flexible across time zones",
+    mindset: "Always learning, always building",
+    
+    currentFocus: [
+        "Modern Web Development",
+        "UI/UX Design",
+        "Cloud Technologies",
+        "AI Tools & Automation"
+    ],
+    
+    lifePhilosophy: "Create. Learn. Build. Repeat."
+};
+```
 
----
+<br/>
 
-# 🚀 Featured Projects
+## 💼 What I Do
 
-| Project | Description |
-|---------|-------------|
-| ⭐ **OnLook** | Missing person reporting platform with real-time tracking, geolocation, and law enforcement dashboard built using Flask. |
-| ⭐ **Foodity** | Multi-vendor eCommerce platform featuring Buyer, Seller, and Admin dashboards. |
-| ⭐ **K Vaults** | Secure password vault application built with Python. |
+<table>
+<tr>
+<td width="33%" align="center">
 
----
+### 🎬 Video Editing
+Professional editing with Adobe Premiere Pro, After Effects, and more. Crafting engaging narratives through visual storytelling.
 
-# ⚡ Tech Stack
+</td>
+<td width="33%" align="center">
 
-### Languages
+### 🎨 Design
+Creating eye-catching graphics and intuitive interfaces using Photoshop, Figma, and Canva.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,dart,cs,mysql"/>
-</p>
+</td>
+<td width="33%" align="center">
 
-### Frameworks & Tools
+### 💻 Development
+Building full-stack applications with modern frameworks and clean, maintainable code.
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,firebase"/>
-</p>
+</td>
+</tr>
+</table>
 
-### Creative Software
+<br/>
 
-<p>
+## 🛠️ Tech Stack
 
-🎬 Adobe Premiere Pro • After Effects • Photoshop
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
 
-🎨 Canva • Figma
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</details>
+
+<details open>
+<summary><b>🚀 Frameworks & Tools</b></summary>
+<br/>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Creative Suite</b></summary>
+<br/>
+
+**Video Editing:**  
+🎬 Adobe Premiere Pro • After Effects
+
+**Design:**  
+🎨 Adobe Photoshop • Figma • Canva
+
+**Collaboration:**  
 📦 Frame.io • Dropbox • Google Drive
 
+**Project Management:**  
 📋 Notion • Trello • ClickUp • Slack • Asana • Monday.com
 
-</p>
+</details>
 
----
+<br/>
 
-# 📈 GitHub Stats
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⭐ OnLook
+**Missing Person Reporting Platform**
+
+- 🗺️ Real-time tracking & geolocation
+- 👮 Law enforcement dashboard
+- 🔧 Built with Flask
+- 🎯 Community-focused solution
+
+</td>
+<td width="50%">
+
+### ⭐ Foodity
+**Multi-Vendor eCommerce Platform**
+
+- 🛒 Buyer dashboard
+- 📊 Seller management
+- 🔐 Admin panel
+- 💳 Complete transaction system
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⭐ K Vaults
+**Secure Password Manager**
+
+- 🔒 Military-grade encryption
+- 🐍 Built with Python
+- 📱 Cross-platform support
+- 🔑 Secure credential storage
+
+</td>
+<td width="50%">
+
+### 🚀 More Coming Soon...
+**Always Building Something New**
+
+- 💡 Innovation in progress
+- 🌱 Learning by doing
+- 🔨 Check back for updates
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ItsKaiross&theme=tokyonight&hide_border=true&v=2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsKaiross&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKaiross&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 
 </div>
 
----
+<div align="center">
 
-# 💼 Experience
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896"/>
 
-🎬 Video Editor — UGCF
-
-🎬 Video Editor — aPodcastGeek
-
-🎬 Video Editor — Hyperverse
-
-🎬 Video Editor — ICS
-
-🎨 Graphic Designer — GlamGirls
-
-🛍 Shopify Manager — GlamGirls
-
-💼 Virtual Assistant — Stealth Invest 7 LLC
-
-🎨 Graphic Designer — Elite Sports Sock
-
----
-
-# 🌱 Currently Learning
-
-- Modern Web Development
-- UI/UX Design
-- Cloud Technologies
-- AI Tools & Automation
-
----
+</div>
 
 <div align="center">
 
-### "Create. Learn. Build. Repeat."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsKaiross&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6C63FF&line=FFB000&point=00C896&area_color=6C63FF&area=true&hide_border=true"/>
 
-⭐ If you like my projects, consider giving them a star!
+</div>
+
+<br/>
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td>
+
+**🎬 Video Editor**  
+- UGCF
+- aPodcastGeek
+- Hyperverse
+- ICS
+
+</td>
+<td>
+
+**🎨 Design & Creative**  
+- Graphic Designer @ GlamGirls
+- Graphic Designer @ Elite Sports Sock
+
+</td>
+<td>
+
+**💼 Other Roles**  
+- Shopify Manager @ GlamGirls
+- Virtual Assistant @ Stealth Invest 7 LLC
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌱 Current Focus
+
+```python
+learning_path = {
+    "web_development": ["React", "Node.js", "TypeScript"],
+    "design": ["Advanced UI/UX", "Design Systems", "3D Design"],
+    "cloud": ["AWS", "Docker", "Kubernetes"],
+    "ai_automation": ["AI Integration", "Workflow Automation"]
+}
+
+for skill in learning_path.values():
+    print(f"Mastering: {skill}")
+```
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross)
+
+---
+
+### *"Create. Learn. Build. Repeat."*
+
+⭐ **If you like my work, consider giving my repos a star!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling"/>
 
 </div>
