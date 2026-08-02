@@ -35,24 +35,13 @@
 
 ## 🚀 About Me
 
-```typescript
-const markJunelle = {
-    name: "Mark Junelle Manahan",
-    location: "🇵🇭 Philippines",
-    roles: ["Video Editor", "Graphic Designer", "Full Stack Developer"],
-    workStyle: "Remote-friendly & flexible across time zones",
-    mindset: "Always learning, always building",
-    
-    currentFocus: [
-        "Modern Web Development",
-        "UI/UX Design",
-        "Cloud Technologies",
-        "AI Tools & Automation"
-    ],
-    
-    lifePhilosophy: "Create. Learn. Build. Repeat."
-};
-```
+I'm **Mark Junelle Manahan**, a multidisciplinary creative passionate about combining **technology and design**. I enjoy building web applications, editing engaging videos, creating eye-catching graphics, and constantly learning new technologies.
+
+- 🎬 Professional Video Editor
+- 🎨 Graphic Designer
+- 💻 Full Stack Developer
+- 🌍 Remote-friendly & flexible across time zones
+- 🚀 Always learning something new
 
 <br/>
 
@@ -241,19 +230,12 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <br/>
 
-## 🌱 Current Focus
+## 🌱 Currently Learning
 
-```python
-learning_path = {
-    "web_development": ["React", "Node.js", "TypeScript"],
-    "design": ["Advanced UI/UX", "Design Systems", "3D Design"],
-    "cloud": ["AWS", "Docker", "Kubernetes"],
-    "ai_automation": ["AI Integration", "Workflow Automation"]
-}
-
-for skill in learning_path.values():
-    print(f"Mastering: {skill}")
-```
+- 🌐 **Modern Web Development** — React, Node.js, TypeScript
+- 🎨 **UI/UX Design** — Design Systems, Advanced UI patterns, 3D Design
+- ☁️ **Cloud Technologies** — AWS, Docker, Kubernetes
+- 🤖 **AI Tools & Automation** — AI Integration, Workflow Automation
 
 <br/>
 
