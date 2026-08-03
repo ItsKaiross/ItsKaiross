@@ -196,7 +196,14 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896&"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ItsKaiross&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=FFB000&text_color=c9d1d9&ring_color=00C896" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKaiross&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896"/>
 
 </div>
 
@@ -205,6 +212,14 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsKaiross&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6C63FF&line=FFB000&point=00C896&area_color=6C63FF&area=true&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ItsKaiross&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+> All the stats above are generated live on every page load — nothing to maintain. If an image looks briefly out of date right after a new commit, that's GitHub's own image cache (usually clears within a few hours), not the stats service.
 
 <br/>
 
