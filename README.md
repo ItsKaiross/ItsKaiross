@@ -194,16 +194,7 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ItsKaiross&theme=tokyonight&hide_border=true&v=2"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896&v=2"/>
 
 </div>
 
