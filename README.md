@@ -206,16 +206,6 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ItsKaiross&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-> All the stats above are generated live on every page load — nothing to maintain. If an image looks briefly out of date right after a new commit, that's GitHub's own image cache (usually clears within a few hours), not the stats service.
-
-<br/>
-
 ## 💼 Professional Experience
 
 <table>
