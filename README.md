@@ -196,13 +196,13 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FItsKaiross&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=6C63FF&labelColor=1a1b27"/>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FItsKaiross%2FItsKaiross%2Fmain%2F.github%2Fbadges%2Frepo-count.json"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896&"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896"/>
 
 </div>
 
@@ -211,8 +211,6 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsKaiross&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6C63FF&line=FFB000&point=00C896&area_color=6C63FF&area=true&hide_border=true"/>
 
 </div>
-
-<br/>
 
 ## 💼 Professional Experience
 
