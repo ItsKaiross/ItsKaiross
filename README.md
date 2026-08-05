@@ -142,49 +142,65 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⭐ OnLook
+### 🗂️ [Work Manager](https://github.com/ItsKaiross/Work-Manager)
+**AI-Powered Job Application Tracker**
+
+Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) with AI resume-to-job match scoring and personalized interview prep.
+
+- 🤖 AI resume parsing & match-score calculation
+- 📄 Multi-resume upload with skill extraction
+- 💰 Multi-currency salary & status filtering
+- 🔄 Live dashboard with 30s auto-refresh
+
+`FastAPI` `MySQL` `Next.js` `TypeScript` `Tailwind CSS`
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Work-Manager)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [OnLook](https://github.com/ItsKaiross/Onlook)
 **Missing Person Reporting Platform**
 
 - 🗺️ Real-time tracking & geolocation
 - 👮 Law enforcement dashboard
-- 🔧 Built with Flask
 - 🎯 Community-focused solution
 
-</td>
-<td width="50%">
+`Flask` `Python` `JavaScript`
 
-### ⭐ Foodity
-**Multi-Vendor eCommerce Platform**
-
-- 🛒 Buyer dashboard
-- 📊 Seller management
-- 🔐 Admin panel
-- 💳 Complete transaction system
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Onlook)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⭐ K Vaults
+### 🛒 [Foodity](https://github.com/ItsKaiross/Foodity)
+**Multi-Vendor eCommerce Platform**
+
+- 🛒 Buyer dashboard
+- 📊 Seller management
+- 🔐 Admin panel & complete transaction system
+
+`PHP` `MySQL` `CSS`
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Foodity)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [K Vaults](https://github.com/ItsKaiross/Kvaults)
 **Secure Password Manager**
 
 - 🔒 Military-grade encryption
-- 🐍 Built with Python
 - 📱 Cross-platform support
 - 🔑 Secure credential storage
 
-</td>
-<td width="50%">
+`Python` `HTML`
 
-### 🚀 More Coming Soon...
-**Always Building Something New**
-
-- 💡 Innovation in progress
-- 🌱 Learning by doing
-- 🔨 Check back for updates
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Kvaults)
 
 </td>
 </tr>
