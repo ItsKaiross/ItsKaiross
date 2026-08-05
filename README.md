@@ -196,7 +196,7 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <div align="center">
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FItsKaiross%2FItsKaiross%2Fmain%2F.github%2Fbadges%2Frepo-count.json"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/repo-count.svg"/>
 
 </div>
 

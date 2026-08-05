@@ -1,0 +1,12 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" rx="10" width="494" height="194" fill="#1a1b27"/>
+
+  <g transform="translate(30, 45)" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+    <path fill="#6C63FF" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h9A2.5 2.5 0 0 1 16 2.5v13a.75.75 0 0 1-1.238.57L11 13.362l-3.762 2.708A.75.75 0 0 1 6 15.5v-13Zm2.5-1a1 1 0 0 0-1 1v11.462l3.012-2.169a.75.75 0 0 1 .876 0L10.5 13.962V2.5a1 1 0 0 0-1-1h-5Z" transform="translate(0,-9)"/>
+    <text x="26" y="0" font-size="20" font-weight="600" fill="#6C63FF">Total Repositories</text>
+  </g>
+
+  <text x="30" y="130" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="72" font-weight="700" fill="#ffffff">{{TOTAL}}</text>
+
+  <text x="30" y="165" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#00C896">Public + Private Repositories</text>
+</svg>
