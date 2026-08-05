@@ -232,27 +232,39 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 
 <table>
 <tr>
-<td>
+<td width="33%" valign="top">
 
-**🎬 Video Editor**  
-- UGCF
-- aPodcastGeek
-- Hyperverse
-- ICS
+### 🎬 Video Editor
+<sub>Freelance & Contract Work</sub>
 
-</td>
-<td>
+---
 
-**🎨 Design & Creative**  
-- Graphic Designer @ GlamGirls
-- Graphic Designer @ Elite Sports Sock
+🔹 UGCF  
+🔹 aPodcastGeek  
+🔹 Hyperverse  
+🔹 ICS
 
 </td>
-<td>
+<td width="33%" valign="top">
 
-**💼 Other Roles**  
-- Shopify Manager @ GlamGirls
-- Virtual Assistant @ Stealth Invest 7 LLC
+### 🎨 Design & Creative
+<sub>Graphic Design</sub>
+
+---
+
+🔹 Graphic Designer @ **GlamGirls**  
+🔹 Graphic Designer @ **Elite Sports Sock**
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 Other Roles
+<sub>Operations & Support</sub>
+
+---
+
+🔹 Shopify Manager @ **GlamGirls**  
+🔹 Virtual Assistant @ **Stealth Invest 7 LLC**
 
 </td>
 </tr>
