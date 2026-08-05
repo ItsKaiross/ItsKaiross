@@ -196,6 +196,12 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FItsKaiross&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=6C63FF&labelColor=1a1b27"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896&"/>
 
 </div>
