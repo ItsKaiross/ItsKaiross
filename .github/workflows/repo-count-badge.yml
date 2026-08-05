@@ -35,6 +35,12 @@ jobs:
 
           public=$(echo "$response" | jq '.public_repos')
           private=$(echo "$response" | jq '.total_private_repos')
+
+          if [ "$public" = "null" ] || [ "$private" = "null" ]; then
+            echo "::error::public_repos or total_private_repos missing from response. This usually means REPO_COUNT_TOKEN is a fine-grained PAT — use a classic PAT with 'repo' scope instead."
+            exit 1
+          fi
+
           echo "total=$((public + private))" >> "$GITHUB_OUTPUT"
 
       - name: Render badge SVG
