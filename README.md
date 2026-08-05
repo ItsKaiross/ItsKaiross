@@ -218,7 +218,7 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ItsKaiross&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FFB000&currStreakLabel=00C896"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/streak-stats.svg"/>
 
 </div>
 
