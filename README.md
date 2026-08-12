@@ -219,6 +219,7 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/repo-count.svg"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/commit-count.svg"/>
 
 </div>
 
