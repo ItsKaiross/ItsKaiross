@@ -1,4 +1,4 @@
-name: Update Streak Stats Badge
+name: Update Commit Count Badge
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats badge
+      - name: Generate commit count badge
         env:
           GH_TOKEN: ${{ secrets.REPO_COUNT_TOKEN }}
           GH_USER: ItsKaiross
@@ -29,14 +29,14 @@ jobs:
             echo "::error::REPO_COUNT_TOKEN secret is not set"
             exit 1
           fi
-          python3 .github/scripts/generate_streak_badge.py
+          python3 .github/scripts/generate_commit_count_badge.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .github/badges/streak-stats.svg
-          git diff --quiet --cached || git commit -m "chore: update streak stats badge"
+          git add .github/badges/commit-count.svg
+          git diff --quiet --cached || git commit -m "chore: update commit count badge"
           for i in 1 2 3 4 5; do
             git push && break
             git fetch origin main

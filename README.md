@@ -231,13 +231,8 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ItsKaiross&style=for-the-badge&color=6C63FF&labelColor=1a1b27&label=Profile+Views"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/repo-count.svg"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/commit-count.svg"/>
 
 </div>
 
