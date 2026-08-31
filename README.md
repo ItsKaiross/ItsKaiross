@@ -177,30 +177,49 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [Foodity](https://github.com/ItsKaiross/Foodity)
-**Multi-Vendor eCommerce Platform**
+### 💸 Kaiflow
+**Transaction & Cash Reconciliation System**
 
-- 🛒 Buyer dashboard
-- 📊 Seller management
-- 🔐 Admin panel & complete transaction system
+- 🧾 Receipt scanning with optional local OCR
+- 🔍 Duplicate transaction detection and review
+- 💵 Daily cash reconciliation and reporting
+- 🛡️ Role-based administration and audit history
 
-`PHP` `MySQL` `CSS`
+`FastAPI` `Next.js` `TypeScript` `SQLAlchemy` `MySQL`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Foodity)
+![Private Repository](https://img.shields.io/badge/Repository-Private-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [K Vaults](https://github.com/ItsKaiross/Kvaults)
-**Secure Password Manager**
+### 🎓 K Connect
+**Campus Organization & Event Platform**
 
-- 🔒 Military-grade encryption
-- 📱 Cross-platform support
-- 🔑 Secure credential storage
+- 🏢 Multi-organization management and public pages
+- ✅ Event proposal and approval workflows
+- 📱 QR-based student attendance tracking
+- 📊 Task management, messaging, and reporting
 
-`Python` `HTML`
+`FastAPI` `Next.js` `TypeScript` `MySQL` `WebSockets`
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Kvaults)
+![Private Repository](https://img.shields.io/badge/Repository-Private-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎮 Solo Grind
+**Gamified Productivity & Personal Growth Platform**
+
+- ⚔️ RPG-style quests, focus sessions, XP, skills, roles, and achievements
+- 🗺️ AI-assisted learning paths, boss objectives, and daily adventures
+- 🤝 Friend connections, weekly leaderboards, and progress analytics
+- 🤖 Context-aware AI mentor with deterministic fallbacks
+
+`FastAPI` `Next.js` `TypeScript` `MySQL` `Groq AI`
+
+![Private Repository](https://img.shields.io/badge/Repository-Private-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 </tr>
@@ -237,6 +256,18 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 ## 💼 Professional Experience
 
 <table>
+<tr>
+<td colspan="3" valign="top">
+
+### 💻 Freelance Full-Stack Developer
+<sub>Web Applications & Digital Solutions</sub>
+
+---
+
+Building custom websites, internal tools, digital assets, and full-stack applications—from responsive interfaces and reusable components to backend APIs, databases, authentication, deployment, and ongoing maintenance.
+
+</td>
+</tr>
 <tr>
 <td width="33%" valign="top">
 
