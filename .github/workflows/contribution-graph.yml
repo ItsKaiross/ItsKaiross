@@ -1,0 +1,43 @@
+name: Update Contribution Graph
+
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/generate_contribution_graph.py'
+      - '.github/workflows/contribution-graph.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-badges
+  cancel-in-progress: false
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        env:
+          GH_TOKEN: ${{ secrets.CONTRIBUTION_GRAPH_TOKEN || secrets.REPO_COUNT_TOKEN || github.token }}
+          GH_USER: ItsKaiross
+        run: python3 .github/scripts/generate_contribution_graph.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/badges/contribution-graph.svg
+          git diff --quiet --cached || git commit -m "chore: update contribution graph"
+          for i in 1 2 3 4 5; do
+            git push && break
+            git fetch origin main
+            git rebase origin/main
+            sleep $((RANDOM % 5 + 1))
+          done

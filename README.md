@@ -244,7 +244,7 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsKaiross&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6C63FF&line=FFB000&point=00C896&area_color=6C63FF&area=true&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/contribution-graph.svg" alt="Contribution Graph"/>
 
 </div>
 
