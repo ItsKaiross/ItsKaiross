@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: readme-badges
+  group: contribution-graph
   cancel-in-progress: false
 
 jobs:
