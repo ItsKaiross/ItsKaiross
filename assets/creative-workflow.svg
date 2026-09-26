@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="140" viewBox="0 0 960 140" role="img" aria-labelledby="title desc">
+  <title id="title">Edit. Design. Develop.</title>
+  <desc id="desc">An animated editing playhead, floating design shapes, and a blinking code cursor celebrate three creative disciplines.</desc>
+  <style>
+    .playhead { animation: scrub 6s ease-in-out infinite alternate; }
+    .shape { animation: float 5s ease-in-out infinite alternate; }
+    .cursor { animation: blink 1.6s steps(2, jump-none) infinite; }
+    @keyframes scrub { to { transform: translateX(90px); } }
+    @keyframes float { to { transform: translateY(-8px); } }
+    @keyframes blink { to { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .playhead, .shape, .cursor { animation: none; } }
+  </style>
+  <rect width="960" height="140" rx="18" fill="#15172c"/>
+  <path d="M320 25v90m320-90v90" stroke="#343453"/>
+  <g fill="#a89bff">
+    <rect x="96" y="36" width="75" height="12" rx="3"/><rect x="177" y="36" width="47" height="12" rx="3"/>
+    <rect x="96" y="54" width="38" height="12" rx="3"/><rect x="140" y="54" width="84" height="12" rx="3" fill="#60e0d0"/>
+  </g>
+  <path class="playhead" d="M112 29v45" stroke="#f5f3ff" stroke-width="3"/>
+  <g class="shape" fill="none" stroke-width="2.5">
+    <rect x="443" y="34" width="32" height="32" rx="5" stroke="#a89bff"/>
+    <circle cx="492" cy="50" r="18" stroke="#60e0d0"/>
+    <path d="m515 33 17 30h-34Z" stroke="#a89bff"/>
+  </g>
+  <g fill="none" stroke="#60e0d0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m777 37-15 15 15 15m37-30 15 15-15 15m-15-34-10 38"/>
+    <path class="cursor" d="M840 38v28" stroke="#a89bff"/>
+  </g>
+  <g fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle" letter-spacing="2">
+    <text x="160" y="111">EDIT</text><text x="480" y="111">DESIGN</text><text x="800" y="111">DEVELOP</text>
+  </g>
+</svg>

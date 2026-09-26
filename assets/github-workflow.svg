@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150" role="img" aria-labelledby="title desc">
+  <title id="title">From idea to shipped code</title>
+  <desc id="desc">A decorative animation connecting code, commit, review, and ship. This illustration does not represent live GitHub activity.</desc>
+  <style>
+    .flow { stroke-dasharray: 8 12; animation: flow 4s linear infinite; }
+    .halo { transform-box: fill-box; transform-origin: center; animation: pulse 4s ease-in-out infinite; }
+    .second { animation-delay: -1s; } .third { animation-delay: -2s; } .fourth { animation-delay: -3s; }
+    @keyframes flow { to { stroke-dashoffset: -80; } }
+    @keyframes pulse { 0%, 100% { opacity: .25; transform: scale(1); } 50% { opacity: .7; transform: scale(1.12); } }
+    @media (prefers-reduced-motion: reduce) { .flow, .halo { animation: none; } }
+  </style>
+  <rect width="960" height="150" rx="18" fill="#15172c"/>
+  <path d="M150 62H810" stroke="#343453" stroke-width="2"/>
+  <path class="flow" d="M150 62H810" stroke="#60e0d0" stroke-width="2"/>
+  <g fill="#15172c" stroke="#a89bff" stroke-width="2">
+    <circle class="halo" cx="150" cy="62" r="29"/><circle class="halo second" cx="370" cy="62" r="29"/>
+    <circle class="halo third" cx="590" cy="62" r="29"/><circle class="halo fourth" cx="810" cy="62" r="29"/>
+    <circle cx="150" cy="62" r="23"/><circle cx="370" cy="62" r="23"/><circle cx="590" cy="62" r="23"/><circle cx="810" cy="62" r="23"/>
+  </g>
+  <g fill="none" stroke="#60e0d0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m144 55-7 7 7 7m12-14 7 7-7 7"/>
+    <path d="M355 62h9m12 0h9"/><circle cx="370" cy="62" r="6"/>
+    <path d="m580 62 7 7 13-14m201 7 9-9 9 9m-9-9v20"/>
+  </g>
+  <g fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle" letter-spacing="2">
+    <text x="150" y="119">CODE</text><text x="370" y="119">COMMIT</text><text x="590" y="119">REVIEW</text><text x="810" y="119">SHIP</text>
+  </g>
+</svg>

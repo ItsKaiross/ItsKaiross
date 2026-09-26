@@ -49,6 +49,8 @@ I'm **Mark Junelle Manahan**, a multidisciplinary creative passionate about comb
 
 ## 💼 What I Do
 
+<img src="assets/creative-workflow.svg" width="100%" alt="Creative workflow: edit, design, and develop"/>
+
 <table>
 <tr>
 <td width="33%" align="center">
@@ -245,6 +247,8 @@ Built for cash-in and cash-out stores, from staff transaction entry to branch-le
 <img src="assets/animated-divider.svg" width="100%" height="12" alt=""/>
 
 ## 📊 GitHub Analytics
+
+<img src="assets/github-workflow.svg" width="100%" alt="Animated development workflow: code, commit, review, and ship"/>
 
 <div align="center">
 
