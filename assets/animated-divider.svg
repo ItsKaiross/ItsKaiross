@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="12" viewBox="0 0 960 12">
+  <defs><linearGradient id="line"><stop stop-color="#6c63ff" stop-opacity="0"/><stop offset=".35" stop-color="#a89bff"/><stop offset=".65" stop-color="#60e0d0"/><stop offset="1" stop-color="#60e0d0" stop-opacity="0"/></linearGradient></defs>
+  <style>
+    .line { animation: breathe 5s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { opacity: .4; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; } }
+  </style>
+  <rect class="line" x="0" y="5" width="960" height="2" rx="1" fill="url(#line)"/>
+</svg>

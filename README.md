@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Hero Section -->
-<img src="https://github.com/ItsKaiross/ItsKaiross/blob/main/Haruki.jpg?raw=true" alt="Mark Junelle Manahan"/>
+<img src="assets/profile-banner.svg" width="100%" alt="Create. Learn. Build. Repeat. - Design, code, and storytelling"/>
+
+<img src="Haruki.jpg" alt="Mark Junelle Manahan"/>
 
 # Hi there, I'm Mark Junelle 👋
 
@@ -29,7 +31,7 @@
 <br/>
 
 <!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/animated-divider.svg" width="100%" height="12" alt=""/>
 
 <br/>
 
@@ -149,10 +151,10 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) with AI resume-to-job match scoring and personalized interview prep.
 
-- 🤖 AI resume parsing & match-score calculation
-- 📄 Multi-resume upload with skill extraction
-- 💰 Multi-currency salary & status filtering
-- 🔄 Live dashboard with 30s auto-refresh
+- Resume matching, job summaries, and personalized interview preparation
+- Activity heatmap, application pipeline, and source analytics
+- Status-based follow-up reminders and quick pipeline updates
+- Multiple resumes, targeted job keywords, and multi-currency tracking
 
 `FastAPI` `MySQL` `Next.js` `TypeScript` `Tailwind CSS`
 
@@ -178,14 +180,16 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 <td width="50%" valign="top">
 
 ### 💸 Kaiflow
-**Transaction & Cash Reconciliation System**
+**Local-First Transaction & Cash Reconciliation System**
 
-- 🧾 Receipt scanning with optional local OCR
-- 🔍 Duplicate transaction detection and review
-- 💵 Daily cash reconciliation and reporting
-- 🛡️ Role-based administration and audit history
+Built for cash-in and cash-out stores, from staff transaction entry to branch-level reporting.
 
-`FastAPI` `Next.js` `TypeScript` `SQLAlchemy` `MySQL`
+- Protected receipt uploads with optional local Tesseract OCR
+- File and reference-number duplicate detection with admin review
+- Service-fee calculation, daily reconciliation, and branch reporting
+- Staff, Admin, and Super Admin roles with audit history
+
+`FastAPI` `Next.js` `TypeScript` `SQLAlchemy` `SQLite / MySQL`
 
 ![Private Repository](https://img.shields.io/badge/Repository-Private-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
@@ -195,10 +199,10 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 ### 🎓 K Connect
 **Campus Organization & Event Platform**
 
-- 🏢 Multi-organization management and public pages
-- ✅ Event proposal and approval workflows
-- 📱 QR-based student attendance tracking
-- 📊 Task management, messaging, and reporting
+- Multi-tenant organizations, branded public pages, and role-based access
+- Event proposals, approval history, and branded PDF / Word exports
+- Student QR attendance, recurring training sessions, and roster management
+- Organization documents, version history, and resolution workflows
 
 `FastAPI` `Next.js` `TypeScript` `MySQL` `WebSockets`
 
@@ -212,10 +216,10 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 ### 🎮 Solo Grind
 **Gamified Productivity & Personal Growth Platform**
 
-- ⚔️ RPG-style quests, focus sessions, XP, skills, roles, and achievements
-- 🗺️ AI-assisted learning paths, boss objectives, and daily adventures
-- 🤝 Friend connections, weekly leaderboards, and progress analytics
-- 🤖 Context-aware AI mentor with deterministic fallbacks
+- Recurring quests, timed focus sessions, skill progression, and achievements
+- AI-assisted learning paths, boss objectives, and a context-aware mentor
+- Seven-day cooperative Party Raids, PvP modes, and weekly leaderboards
+- Grind Journal, Weekly Review, quest templates, and focus scheduling
 
 `FastAPI` `Next.js` `TypeScript` `MySQL` `Groq AI`
 
@@ -226,6 +230,19 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 </table>
 
 <br/>
+
+## More Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **KQuota** | Desktop usage widget with reset countdowns, automatic refresh, and detachable provider cards for Claude and Codex. | Tauri / React / TypeScript / FastAPI |
+| **Kvaults** | Local encrypted password vault with TOTP setup, password generation, weak / reused password reports, and backup / restore. | Python / Tkinter / SQLite / cryptography |
+
+<sub>Project descriptions reflect local project documentation reviewed in September 2026.</sub>
+
+<br/>
+
+<img src="assets/animated-divider.svg" width="100%" height="12" alt=""/>
 
 ## 📊 GitHub Analytics
 
@@ -327,6 +344,6 @@ Building custom websites, internal tools, digital assets, and full-stack applica
 
 ⭐ **If you like my work, consider giving my repos a star!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling"/>
+<img src="assets/animated-divider.svg" width="100%" height="12" alt=""/>
 
 </div>

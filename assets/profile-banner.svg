@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+  <title id="title">Create. Learn. Build. Repeat.</title>
+  <desc id="desc">A dark violet banner with gently drifting accents celebrating design, code, and storytelling.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#111528"/><stop offset="1" stop-color="#242047"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#a89bff"/><stop offset="1" stop-color="#60e0d0"/></linearGradient>
+  </defs>
+  <style>
+    .drift { animation: drift 8s ease-in-out infinite alternate; }
+    .reverse { animation-delay: -4s; }
+    @keyframes drift { from { transform: translateY(0); } to { transform: translateY(-12px); } }
+    @media (prefers-reduced-motion: reduce) { .drift { animation: none; } }
+  </style>
+  <rect width="960" height="220" rx="20" fill="url(#background)"/>
+  <g fill="none" stroke="#a89bff" opacity=".25" class="drift">
+    <circle cx="850" cy="100" r="70"/><circle cx="850" cy="100" r="48"/>
+    <path d="M760 100h180M850 20v160"/>
+  </g>
+  <g class="drift reverse" fill="#60e0d0" opacity=".65"><circle cx="720" cy="54" r="4"/><circle cx="915" cy="177" r="3"/><circle cx="675" cy="173" r="3"/></g>
+  <rect x="40" y="40" width="48" height="4" rx="2" fill="url(#accent)"/>
+  <text x="40" y="78" fill="#b9b1e8" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="3">ITSKAIROSS / CREATIVE DEVELOPER</text>
+  <text x="40" y="128" fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="38">Create. Learn. Build. Repeat.</text>
+  <text x="40" y="169" fill="#cdcbe0" font-family="Segoe UI, Arial, sans-serif" font-size="19">Design, code, and storytelling.</text>
+  <rect x="40" y="197" width="880" height="2" rx="1" fill="url(#accent)" opacity=".6"/>
+</svg>
