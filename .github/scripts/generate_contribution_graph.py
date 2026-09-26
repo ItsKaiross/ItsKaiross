@@ -101,6 +101,14 @@ parts = [
     f'<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">',
     f'<title id="title">{html.escape(USER)} contribution graph</title>',
     f'<desc id="desc">{calendar["totalContributions"]} contributions in the last year.</desc>',
+    "<style>"
+    ".cell{transform-box:fill-box;transform-origin:center;animation:cell-in .45s cubic-bezier(.34,1.56,.64,1) both}"
+    ".hot{animation:cell-in .45s cubic-bezier(.34,1.56,.64,1) both,glow 2.8s ease-in-out infinite}"
+    ".fade{animation:fade .6s ease both}"
+    "@keyframes cell-in{from{opacity:0;transform:scale(.2)}to{opacity:1;transform:scale(1)}}"
+    "@keyframes glow{0%,100%{opacity:1}50%{opacity:.55}}"
+    "@keyframes fade{from{opacity:0}to{opacity:1}}"
+    "</style>",
     f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="10" fill="#1a1b27" stroke="#33344a"/>',
     '<g font-family="Segoe UI, Ubuntu, sans-serif">',
     f'<text x="24" y="28" fill="#ffffff" font-size="16" font-weight="700">Contribution Graph</text>',
@@ -133,16 +141,23 @@ for week_index, week in enumerate(weeks):
         y = top + day["weekday"] * step
         noun = "contribution" if count == 1 else "contributions"
         tooltip = html.escape(f"{count} {noun} on {date.strftime('%b %d, %Y')}")
+        cell_level = level(count)
+        delay = week_index * 30 + day["weekday"] * 15
+        if cell_level == 4:
+            css = f'class="cell hot" style="animation-delay:{delay}ms,{2000 + delay}ms"'
+        else:
+            css = f'class="cell" style="animation-delay:{delay}ms"'
         parts.append(
-            f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{colors[level(count)]}"><title>{tooltip}</title></rect>'
+            f'<rect {css} x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{colors[cell_level]}"><title>{tooltip}</title></rect>'
         )
 
 legend_x = 757
+parts.append('<g class="fade" style="animation-delay:1.6s">')
 parts.append(f'<text x="{legend_x - 8}" y="174" fill="#8b8fa3" font-size="9" text-anchor="end">Less</text>')
 for index, color in enumerate(colors):
     parts.append(f'<rect x="{legend_x + index * 15}" y="165" width="11" height="11" rx="2" fill="{color}"/>')
 parts.append(f'<text x="{legend_x + 82}" y="174" fill="#8b8fa3" font-size="9">More</text>')
-parts.extend(["</g>", "</svg>"])
+parts.extend(["</g>", "</g>", "</svg>"])
 
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
 with open(OUTPUT_PATH, "w", encoding="utf-8", newline="\n") as output:
