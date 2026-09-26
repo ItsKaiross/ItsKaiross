@@ -67,6 +67,8 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <details open>
 <summary><b>💻 Languages</b></summary>
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -80,6 +82,8 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <details open>
 <summary><b>🚀 Frameworks & Tools</b></summary>
+<br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -93,6 +97,8 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <details open>
 <summary><b>🤖 AI Assistants</b></summary>
+<br/>
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -105,6 +111,8 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <details open>
 <summary><b>🎨 Creative Suite</b></summary>
+<br/>
+
 **Video Editing:**  
 🎬 Adobe Premiere Pro • After Effects
 
