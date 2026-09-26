@@ -1,12 +1,34 @@
 <svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { animation: rise .7s cubic-bezier(.2,.8,.2,1) both; }
+    .title { animation: fade .6s ease .2s both; }
+    .num { transform-box: fill-box; transform-origin: left bottom; animation: pop .8s cubic-bezier(.34,1.56,.64,1) .35s both; }
+    .sub { animation: fade .6s ease .7s both; }
+    .shine { animation: sweep 4s ease-in-out 1.2s infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes pop { 0% { opacity: 0; transform: scale(.6); } 100% { opacity: 1; transform: scale(1); } }
+    @keyframes sweep { 0% { transform: translateX(-200px); } 40%, 100% { transform: translateX(700px); } }
+  </style>
+  <defs>
+    <linearGradient id="shine" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0.5" y="0.5" rx="10" width="494" height="194"/></clipPath>
+  </defs>
+  <g class="card">
   <rect x="0.5" y="0.5" rx="10" width="494" height="194" fill="#1a1b27"/>
 
-  <g transform="translate(30, 45)" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <g class="title" transform="translate(30, 45)" font-family="'Segoe UI', Ubuntu, Sans-Serif">
     <path fill="#6C63FF" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h9A2.5 2.5 0 0 1 16 2.5v13a.75.75 0 0 1-1.238.57L11 13.362l-3.762 2.708A.75.75 0 0 1 6 15.5v-13Zm2.5-1a1 1 0 0 0-1 1v11.462l3.012-2.169a.75.75 0 0 1 .876 0L10.5 13.962V2.5a1 1 0 0 0-1-1h-5Z" transform="translate(0,-9)"/>
     <text x="26" y="0" font-size="20" font-weight="600" fill="#6C63FF">Total Repositories</text>
   </g>
 
-  <text x="30" y="130" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="72" font-weight="700" fill="#ffffff">23</text>
+  <text class="num" x="30" y="130" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="72" font-weight="700" fill="#ffffff">23</text>
 
-  <text x="30" y="165" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#00C896">Public + Private Repositories</text>
+  <text class="sub" x="30" y="165" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" fill="#00C896">Public + Private Repositories</text>
+  <rect class="shine" clip-path="url(#clip)" x="0" y="0" width="160" height="195" fill="url(#shine)"/>
+  </g>
 </svg>
