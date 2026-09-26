@@ -3,13 +3,13 @@
 <!-- Hero Section -->
 <img src="assets/profile-banner.svg" width="100%" alt="Create. Learn. Build. Repeat. - Design, code, and storytelling"/>
 
-<img src="Haruki.jpg" alt="Mark Junelle Manahan"/>
+<img src="Haruki.jpg" width="100%" alt="Mark Junelle Manahan"/>
 
 # Hi there, I'm Mark Junelle 👋
 
 <h3>🎬 Video Editor • 🎨 Graphic Designer • 💻 Full Stack Developer</h3>
 
-> *Building creative experiences through design, code, and storytelling.*
+<p><em>Building creative experiences through design, code, and storytelling.</em></p>
 
 <!-- Status Badges -->
 <p>
@@ -20,20 +20,14 @@
 
 <!-- Social Links -->
 <p>
-<a href="https://github.com/ItsKaiross">
-<img src="https://img.shields.io/badge/GitHub-ItsKaiross-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/ItsKaiross"><img src="https://img.shields.io/badge/GitHub-ItsKaiross-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=ItsKaiross&style=for-the-badge&color=6C63FF&label=Profile+Views"/>
 </p>
 
 </div>
 
-<br/>
-
 <!-- Animated divider -->
 <img src="assets/animated-divider.svg" width="100%" height="12" alt=""/>
-
-<br/>
 
 ## 🚀 About Me
 
@@ -45,8 +39,6 @@ I'm **Mark Junelle Manahan**, a multidisciplinary creative passionate about comb
 - 🌍 Remote-friendly & flexible across time zones
 - 🚀 Always learning something new
 
-<br/>
-
 ## 💼 What I Do
 
 <img src="assets/creative-workflow.svg" width="100%" alt="Creative workflow: edit, design, and develop"/>
@@ -55,33 +47,26 @@ I'm **Mark Junelle Manahan**, a multidisciplinary creative passionate about comb
 <tr>
 <td width="33%" align="center">
 
-### 🎬 Video Editing
 Professional editing with Adobe Premiere Pro, After Effects, and more. Crafting engaging narratives through visual storytelling.
 
 </td>
 <td width="33%" align="center">
 
-### 🎨 Design
 Creating eye-catching graphics and intuitive interfaces using Photoshop, Figma, and Canva.
 
 </td>
 <td width="33%" align="center">
 
-### 💻 Development
 Building full-stack applications with modern frameworks and clean, maintainable code.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ## 🛠️ Tech Stack
 
 <details open>
 <summary><b>💻 Languages</b></summary>
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -95,8 +80,6 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <details open>
 <summary><b>🚀 Frameworks & Tools</b></summary>
-<br/>
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -110,8 +93,6 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <details open>
 <summary><b>🤖 AI Assistants</b></summary>
-<br/>
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -124,8 +105,6 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 
 <details open>
 <summary><b>🎨 Creative Suite</b></summary>
-<br/>
-
 **Video Editing:**  
 🎬 Adobe Premiere Pro • After Effects
 
@@ -139,8 +118,6 @@ Building full-stack applications with modern frameworks and clean, maintainable 
 📋 Notion • Trello • ClickUp • Slack • Asana • Monday.com
 
 </details>
-
-<br/>
 
 ## 🌟 Featured Projects
 
@@ -165,22 +142,6 @@ Tracks applications end-to-end (Saved → Applied → Interviewing → Offer) wi
 </td>
 <td width="50%" valign="top">
 
-### 🔎 [OnLook](https://github.com/ItsKaiross/Onlook)
-**Missing Person Reporting Platform**
-
-- 🗺️ Real-time tracking & geolocation
-- 👮 Law enforcement dashboard
-- 🎯 Community-focused solution
-
-`Flask` `Python` `JavaScript`
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Onlook)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 💸 Kaiflow
 **Local-First Transaction & Cash Reconciliation System**
 
@@ -196,6 +157,8 @@ Built for cash-in and cash-out stores, from staff transaction entry to branch-le
 ![Private Repository](https://img.shields.io/badge/Repository-Private-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎓 K Connect
@@ -211,9 +174,7 @@ Built for cash-in and cash-out stores, from staff transaction entry to branch-le
 ![Private Repository](https://img.shields.io/badge/Repository-Private-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🎮 Solo Grind
 **Gamified Productivity & Personal Growth Platform**
@@ -229,9 +190,23 @@ Built for cash-in and cash-out stores, from staff transaction entry to branch-le
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" valign="top">
 
-<br/>
+### 🔎 [OnLook](https://github.com/ItsKaiross/Onlook)
+**Missing Person Reporting Platform**
+
+- 🗺️ Real-time tracking & geolocation
+- 👮 Law enforcement dashboard
+- 🎯 Community-focused solution
+
+`Flask` `Python` `JavaScript`
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKaiross/Onlook)
+
+</td>
+</tr>
+</table>
 
 ## More Projects
 
@@ -239,10 +214,6 @@ Built for cash-in and cash-out stores, from staff transaction entry to branch-le
 | --- | --- | --- |
 | **KQuota** | Desktop usage widget with reset countdowns, automatic refresh, and detachable provider cards for Claude and Codex. | Tauri / React / TypeScript / FastAPI |
 | **Kvaults** | Local encrypted password vault with TOTP setup, password generation, weak / reused password reports, and backup / restore. | Python / Tkinter / SQLite / cryptography |
-
-<sub>Project descriptions reflect local project documentation reviewed in September 2026.</sub>
-
-<br/>
 
 <img src="assets/animated-divider.svg" width="100%" height="12" alt=""/>
 
@@ -252,20 +223,10 @@ Built for cash-in and cash-out stores, from staff transaction entry to branch-le
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/repo-count.svg"/>
-<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/commit-count.svg"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/streak-stats.svg"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/contribution-graph.svg" alt="Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/repo-count.svg" width="49%" alt="Total repositories"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/commit-count.svg" width="49%" alt="Total commits"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/streak-stats.svg" width="100%" alt="Contribution streak stats"/>
+<img src="https://raw.githubusercontent.com/ItsKaiross/ItsKaiross/main/.github/badges/contribution-graph.svg" width="100%" alt="Contribution graph"/>
 
 </div>
 
@@ -323,16 +284,12 @@ Building custom websites, internal tools, digital assets, and full-stack applica
 </tr>
 </table>
 
-<br/>
-
 ## 🌱 Currently Learning
 
 - 🌐 **Modern Web Development** — React, Node.js, TypeScript
 - 🎨 **UI/UX Design** — Design Systems, Advanced UI patterns, 3D Design
 - ☁️ **Cloud Technologies** — AWS, Docker, Kubernetes
 - 🤖 **AI Tools & Automation** — AI Integration, Workflow Automation
-
-<br/>
 
 ## 🤝 Let's Connect
 
