@@ -299,7 +299,7 @@ Building custom websites, internal tools, digital assets, and full-stack applica
 - ☁️ **Cloud Technologies** — AWS, Docker, Kubernetes
 - 🤖 **AI Tools & Automation** — AI Integration, Workflow Automation
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect and work together!
 
 <div align="center">
 
