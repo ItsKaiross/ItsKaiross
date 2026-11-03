@@ -30,9 +30,9 @@
     <circle cx="247.5" cy="60" r="38" fill="none" stroke="#33344a" stroke-width="4"/>
     <circle class="ring" cx="247.5" cy="60" r="38" fill="none" stroke="#6C63FF" stroke-width="4" stroke-linecap="round" transform="rotate(-90 247.5 60)"/>
     <text class="flame" x="247.5" y="38" font-size="20" text-anchor="middle">🔥</text>
-    <text class="pop" x="247.5" y="72" font-size="34" font-weight="700" fill="#ffffff">96</text>
+    <text class="pop" x="247.5" y="72" font-size="34" font-weight="700" fill="#ffffff">0</text>
     <text x="247.5" y="112" font-size="14" font-weight="600" fill="#00C896">Current Streak</text>
-    <text x="247.5" y="132" font-size="11" fill="#8b8fa3">Jul 29 - Nov 1</text>
+    <text x="247.5" y="132" font-size="11" fill="#8b8fa3">No streak yet</text>
   </g>
 
   <g class="col c3" font-family="'Segoe UI', Ubuntu, Sans-Serif" text-anchor="middle">
